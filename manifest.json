@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://vsergeev90.github.io/friends/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
